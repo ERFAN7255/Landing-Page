@@ -31,11 +31,11 @@ div ul li a {
 }
 @font-face {
   font-family: regular;
-  src: url(/font/Lato-Bold.ttf);
+  src: url(font/Lato-Bold.ttf);
 }
 @font-face {
   font-family: Bold;
-  src: url(/font/Lato-Black.ttf);
+  src: url(font/Lato-Black.ttf);
 }
 div ul li:hover a {
   color: #fcb900;
@@ -196,7 +196,7 @@ div h1 span {
   position: absolute;
   width: 100%;
   background-color: #00000081;
-  background-image: url(/image/img2.jpg);
+  background-image: url(image/img2.jpg);
   height: 578px;
   z-index: -999;
 }
@@ -229,7 +229,7 @@ div h1 span {
   margin-top: 519px;
   height: 667px;
   position: relative;
-  background-image: url(/image/testiomnials-background.jpg);
+  background-image: url(image/testiomnials-background.jpg);
 }
 .h3-3 {
   text-align: center;
@@ -299,7 +299,7 @@ div h1 span {
 }
 @font-face {
   font-family: Poppins;
-  src: url(/font/Poppins-Bold.ttf);
+  src: url(font/Poppins-Bold.ttf);
 }
 .h5-div7 {
   font-size: 23px;
