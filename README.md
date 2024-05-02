@@ -4,5 +4,5 @@
 
 ---
 
-![photo1](image/landing.png)
+![photo1](landing.png)
 
