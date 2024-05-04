@@ -57,8 +57,6 @@ img {
   margin-top: -6.5%;
   margin-left: -1%;
   margin-right: -0.5%;
-  /* z-index: initial; */
-  /* position: fixed; */
 }
 #backgrond-img {
   z-index: -999;
